@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">TSL Merchant</string>
+    <string name="copyright">Copyrights 2023 by TSL</string>
+    <string name="TSL">Travel Sri Lanka</string>
+    <string name="merchant">Merchant</string>
+    <string name="needHelp">Need help?</string>
+    <string name="login">Log-In</string>
+    <string name="logout">Logout</string>
+    <string name="register">Register</string>
+    <string name="registercab">Register Cab</string>
+    <string name="registerhotel">Register Hotel</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="oname">Owner Name</string>
+    <string name="hname">Hotel Name</string>
+    <string name="hlongitude">Hotel longitude</string>
+    <string name="hlatitude">Hotel latitude</string>
+    <string name="city">City</string>
+    <string name="town">Town</string>
+    <string name="hAddress">Hotel Address</string>
+    <string name="bday">Birth Day</string>
+    <string name="pnumber">Phone Number</string>
+    <string name="email">Email Address</string>
+    <string name="nid">National ID</string>
+    <string name="dlid">Driving license ID</string>
+    <string name="vnumber">Vehicle number</string>
+    <string name="password">Password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="gender">Gender :</string>
+    <string name="next">Next</string>
+    <string name="reset">Reset</string>
+    <string name="forgotpassword">Are you forget your password?</string>
+    <string name="clickhere">Click here</string>
+
+</resources>

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "902849369731",
+    "project_id": "travel-sri-lanka-3604c",
+    "storage_bucket": "travel-sri-lanka-3604c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902849369731:android:25a6d9bea4143c9dd52db6",
+        "android_client_info": {
+          "package_name": "com.buddila.tsl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902849369731-98ogfamnjq930q02kk6g2k5uaguluhr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKws3rEYV-NZvbjLhU1b3IvCVLNn1DZNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902849369731-98ogfamnjq930q02kk6g2k5uaguluhr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902849369731:android:53fbc05a84c67ea9d52db6",
+        "android_client_info": {
+          "package_name": "com.buddila.tslmerchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902849369731-98ogfamnjq930q02kk6g2k5uaguluhr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKws3rEYV-NZvbjLhU1b3IvCVLNn1DZNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902849369731-98ogfamnjq930q02kk6g2k5uaguluhr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
